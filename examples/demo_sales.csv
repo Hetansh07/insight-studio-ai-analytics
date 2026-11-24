@@ -1,0 +1,7 @@
+order_date,region,category,customer,quantity,unit_price
+2026-01-05,North,Hardware,Asha,2,25.00
+2026-01-12,South,Software,Ben,1,80.00
+2026-01-12,South,Software,Ben,1,80.00
+2026-02-03,East,Hardware,Chen,,30.00
+2026-02-18,West,Services,Diya,4,
+2026-03-01,North,Hardware,Asha,3,25.00
